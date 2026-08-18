@@ -75,8 +75,3 @@ Run the application:
 ```bash
 python main.py
 ```
-
-
----
-
-⭐ If you like this project, feel free to give it a star!
